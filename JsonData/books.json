@@ -1,0 +1,21 @@
+[
+  {
+    "Id": 1,
+    "Isbn": "123-0980788-333",
+    "Authors": [
+      "Leye Adenle"
+    ],
+    "Genre": 2,
+    "Title": "Easy Motion Tourist"
+  },
+  {
+    "Id": 2,
+    "Isbn": "098-7333453-452",
+    "Authors": [
+      "Ria McQueen",
+      "Nathan Gilbert"
+    ],
+    "Genre": 5,
+    "Title": "Tamburlaine"
+  }
+]

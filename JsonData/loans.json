@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "LendeeId": 2,
+    "BookId": 1,
+    "LentOn": "2016-03-25T00:00:00",
+    "IsReturned": true
+  },
+  {
+    "Id": 2,
+    "LendeeId": 1,
+    "BookId": 1,
+    "LentOn": "2016-03-30T00:00:00",
+    "IsReturned": true
+  },
+  {
+    "Id": 3,
+    "LendeeId": 1,
+    "BookId": 2,
+    "LentOn": "2016-04-10T00:00:00",
+    "IsReturned": false
+  }
+]
